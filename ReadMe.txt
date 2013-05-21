@@ -1,0 +1,1 @@
+This is a basic Accelerometer, This was the a project I did for my dissertation in which I will be continually progressing overtime.
